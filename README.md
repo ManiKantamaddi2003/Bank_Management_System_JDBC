@@ -86,12 +86,6 @@ Make sure to replace the database connection details in `Database.java` with you
 - **JDBC**: Java Database Connectivity to interact with the MySQL database.
 - **MySQL**: Database system used for storing user and account information.
 
----
-
-## 📸 Screenshots
-
-- **Registration Screen**: ![Registration Screenshot](screenshots/registration.png)
-- **Login Screen**: ![Login Screenshot](screenshots/login.png)
 
 ---
 
